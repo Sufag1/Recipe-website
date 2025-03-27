@@ -64,6 +64,12 @@ a {
 }
 
 
+.meal-template:hover {
+    padding: 20px;
+
+}
+
+
 
 *{
     margin: 0;
@@ -90,3 +96,25 @@ h1 {
 }
 
 
+/*Tablet screen size*/
+
+@media (min-width: 760px) {
+    .meal-templates {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
+        
+    }
+    
+
+}
+
+
+
+/*Desktop screen size*/
+
+@media (min-width: 1024px) {
+    .meal-templates {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 3fr));
+        
+    }
+
+}
