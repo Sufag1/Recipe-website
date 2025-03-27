@@ -21,3 +21,40 @@ const fetchIngredients = (anyMeal) => {
     }
     return ingredients;
 }
+
+
+
+
+
+const displayMeals = (parameter) => {
+    const unOrderdList = document.getElementById('meal-templates');
+    unOrderdList.innerHTML = '';
+
+
+    parameter.forEach(meal => {
+        const ingredients = fetchIngredients(meal);
+        const mealTemplate = document.createElement('div');
+        mealTemplate.classList.add('meal-template');
+
+
+        
+        mealTemplate.innerHTML = `
+        <div class="meal-template">
+                <img src="${meal.strMealThumb}" alt="${meal.strMeal}">
+                <h2 class="meal-name">${meal.strMeal}</h2>
+                <p class="meal-recipe">${meal.strInstructions.substring(0, 150)}...</p>
+                <ul class="ingredients">
+                    ${ingredients.map(ingredient => `<li>${ingredient}</li>`).join('')}
+                </ul>
+                <a href="${meal.strYoutube}" target="_blank" class="video-link">Watch Video</a>
+            </div>
+        `;
+
+
+        unOrderdList.appendChild(mealTemplate);
+    });
+}
+
+
+
+fetchMeals();
