@@ -22,7 +22,7 @@
 - **HTML**
 - **CSS** (Flexbox & Responsive Design)
 - **JavaScript (ES6+)**
-- **Fetch API** for retrieving meal data from TheMealDB
+- **Fetch API** for retrieving meal data from TheMealDB.
 
 ---
 📜 License
@@ -31,7 +31,7 @@ This project is open-source under the MIT License.
 👨‍💻 Author
 Developed by Farouq Abubakar
 💌 Contact me at farouqabubakar99@gmail.com
-- **Live Demo Link**  `"https://your-live-demo-link.com"` 
-- **GitHub Repo Link** `"https://github.com/Sufag1/Recipe-website.git"`   
+- **Live Demo Link**  (https://your-live-demo-link.com)
+- **GitHub Repo Link** https://github.com/Sufag1/Recipe-website.git)   
 - **Author Info** → Farouq Abubakar, Sufag1, and farouqabubakar99a@gmail.com.  
 
