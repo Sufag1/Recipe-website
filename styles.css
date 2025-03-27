@@ -65,3 +65,28 @@ a {
 
 
 
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    background-color: rgb(240, 230, 230);
+}
+body {
+    font-family: 'Quicksand', sans-serif;
+    color: #1b0c0c;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+}
+
+
+h1 {
+    text-align: center;
+    margin: 10px 0px;
+}
+
+
