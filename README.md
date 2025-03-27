@@ -5,7 +5,7 @@
 **Meal Finder** is a web application that allows users to **search for meals**, view ingredients, and watch recipe videos. It fetches data from [TheMealDB API](https://www.themealdb.com/) and dynamically displays meal details.
 
 ## 🚀 Live Demo
-🔗 [View Live Demo](https://your-live-demo-link.com)
+🔗 [View Live Demo](https://recipe-website-6k81.onrender.com)
 
 ---
 
@@ -31,7 +31,7 @@ This project is open-source under the MIT License.
 👨‍💻 Author
 Developed by Farouq Abubakar
 💌 Contact me at farouqabubakar99@gmail.com
-- **Live Demo Link**  (https://your-live-demo-link.com)
-- **GitHub Repo Link** https://github.com/Sufag1/Recipe-website.git)   
+- **Live Demo Link**  (https://recipe-website-6k81.onrender.com)
+- **GitHub Repo Link** (https://github.com/Sufag1/Recipe-website.git)   
 - **Author Info** → Farouq Abubakar, Sufag1, and farouqabubakar99a@gmail.com.  
 
