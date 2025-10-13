@@ -32,6 +32,5 @@ This project is open-source under the MIT License.
 Developed by Farouq Abubakar
 💌 Contact me at farouqabubakar99@gmail.com
 - **Live Demo Link**  (https://recipe-website-6k81.onrender.com)
-- **Loom Video Link**  (https://www.loom.com/share/b231e25277704be692a33e60ff9a1eac?sid=ea08162c-f8e0-4b58-928b-d39a69d394f3F) 
 - **GitHub Repo Link** (https://github.com/Sufag1/Recipe-website.git)  
 - **Author Info** → Farouq Abubakar, Sufag1, and farouqabubakar99a@gmail.com.  
